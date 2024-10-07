@@ -1,0 +1,7 @@
+->Created a new file at VS CODE
+
+->git add "text3.txt"//staging area
+
+->git commit -m "added successfully"//working area
+
+->git push origin main
