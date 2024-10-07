@@ -1,4 +1,4 @@
-->Created a new file at VS CODE
+->Created a new file at VS CODE 
 
 ->git add "text3.txt"//staging area
 
